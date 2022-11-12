@@ -1,4 +1,4 @@
 ![Uploading Screenshot_20221112_124116.png…]()
-Главный Экран (Вертикальное изображение)
-![Screenshot_20221112_124055](https://user-images.githubusercontent.com/91041308/201475775-7b7da480-0860-48fb-b061-98c0fb6242ac.png)
-Второй Экран (Горизонтальное изображение)
+Главный Экран(вертикально)
+![Screenshot_20221112_124055](https://user-images.githubusercontent.com/91041308/201475855-c802741c-0dd2-4c5e-a10c-1538e2f8d486.png)
+Второй экран (горизонтально)
